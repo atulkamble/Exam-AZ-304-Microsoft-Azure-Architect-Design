@@ -25,4 +25,6 @@ I used these resources to Study & Pass AZ-304.
 ## Design Monitoring (10-15%)
 ### Design for cost optimization 
 - [Well-Architected Framework](https://www.youtube.com/watch?v=5lELFRLGeQg)
+- [Diving deeper into Azure cost optimization (Part 1)](https://youtu.be/6ynOHAainug)
+- [Diving deeper into Azure cost optimization (Part 2)](https://youtu.be/nQ1V19FlSxA)
 
