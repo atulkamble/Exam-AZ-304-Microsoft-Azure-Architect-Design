@@ -24,13 +24,7 @@ I used these resources to Study & Pass AZ-304.
 # My Notes (Resources & Links:
 ## Design Monitoring (10-15%)
 ### Design for cost optimization 
-- [Well-Architected Framework](https://www.youtube.com/watch?v=5lELFRLGeQg) is a set of guiding tenets that can be used to improve the quality of a workload. The framework consists of five pillars of architectural excellence:
-- Reliability
-- Security
-- Cost Optimization
-- Operational Excellence
-- Performance Efficiency
-Incorporating these pillars helps produce a high quality, stable, and efficient cloud architecture
+- [Well-Architected Framework](https://www.youtube.com/watch?v=5lELFRLGeQg) is a set of guiding tenets that can be used to improve the quality of a workload. Incorporating these pillars helps produce a high quality, stable, and efficient cloud architecture. The framework consists of five pillars of architectural excellence: Reliability | Security | Cost Optimization | Operational Excellence | Performance Efficiency
 
 - [Diving deeper into Azure cost optimization (Part 1)](https://youtu.be/6ynOHAainug)
 - [Diving deeper into Azure cost optimization (Part 2)](https://youtu.be/nQ1V19FlSxA)
