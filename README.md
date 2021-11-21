@@ -15,6 +15,6 @@ I used these resources to Study & Pass AZ-304.
 - Do Study from more than one resource enlisted above along with [Azure Docs***](https://docs.microsoft.com/en-us/learn/azure/)
 
 <p align="center"><a href="https://github.com/AZ-303-Exam-Tips">
-  <img align="center" src="https://github.com/atulkamble/AZ-304-Exam-Prep/blob/main/EXAM-Expert-AZ-304-600x600" alt="" />
+  <img align="center" src="https://github.com/atulkamble/AZ-304-Exam-Prep/blob/main/EXAM-Expert-AZ-304-600x600.png" alt="" />
 </a></p> 
 
