@@ -21,3 +21,8 @@ I used these resources to Study & Pass AZ-304.
   <img align="center" src="https://github.com/atulkamble/AZ-304-Exam-Prep/blob/main/EXAM-Expert-AZ-304-600x600.png" alt="" />
 </a></p> 
 
+# My Notes (Resources & Links:
+## Design Monitoring (10-15%)
+### Design for cost optimization 
+- [Well-Architected Framework](https://www.youtube.com/watch?v=5lELFRLGeQg)
+
