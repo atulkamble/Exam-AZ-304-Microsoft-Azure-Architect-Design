@@ -3,7 +3,7 @@ Exam Guidelines from [@atulkamble](https://github.com/atulkamble).
 
 I used these resources to Study & Pass AZ-304.
 
-- [Azure 304 LABS](https://microsoftlearning.github.io/AZ-304-Microsoft-Azure-Architect-Design/)
+- [Azure 304 LABS](https://microsoftlearning.github.io/AZ-304-Microsoft-Azure-Architect-Design/) | [Diagrams](https://github.com/MicrosoftLearning/AZ-304-Microsoft-Azure-Architect-Design/tree/master/Allfiles/Diagrams)
 - [(Course) : Alan Rodrigues](https://www.udemy.com/course/exam-az-microsoft-azure-exam-role1)
 - [(Book) Exam Ref AZ-304 Microsoft Azure Architect Design : Ashish Agrawal, Avinash Bhavsar, MJ Parker,Gurvinder Singh](https://www.amazon.in/AZ-304-Microsoft-Azure-Architect-Design/dp/0137268890/ref=sr_1_2?keywords=AZ-304&qid=1637466642&s=books&sr=1-2)
 - [Student Handbook and AllFiles Content](https://github.com/MicrosoftLearning/AZ-304-Microsoft-Azure-Architect-Design)
